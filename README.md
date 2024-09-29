@@ -4,6 +4,9 @@ Objetivo: Criar um ambiente de integração contínua (CI) simples usando Git pa
 Ferramentas utilizadas:
 
 **Git:** Para controle de versão.
+
 **Docker:** Para criação de contêineres para a aplicação e seus serviços.
+
 **Docker Compose:** Para gerenciar múltiplos contêineres e facilitar o ambiente multi-serviços.
+
 **Hooks do Git:** Para automação no repositório.
